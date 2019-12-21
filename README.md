@@ -4,7 +4,7 @@ Farm-Life is the beginnings of a base for an open world game. It's aim is to be 
 
 ## How to Run
 
-Open the solution using Visual Studio 2019 and run.
+Open the solution using Visual Studio 2019 with c++ and run.
 
 Must have up-to-date GPU drivers which have OpenGL functionality.
 
